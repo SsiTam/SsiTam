@@ -1,4 +1,6 @@
-## Hi there 👋
+## Profil de Matiss Brunel
+
+Pour l'instant ce github ne ressemble pas à grand chose mais ça va venir !
 
 <!--
 **SsiTam/SsiTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
